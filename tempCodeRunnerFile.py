@@ -1,0 +1,1 @@
+if response_text == "COMMAND_PICK_UP_BLOCK":
